@@ -34,7 +34,7 @@ body {
     margin-top: 70px;
     margin: 30px;
     display:flex;
-    margin-left: 450px;
+    margin-left: 400px;
     text-align: center;
     white-space: nowrap;
     
@@ -47,7 +47,7 @@ body {
     display: flex;
     flex-direction: column;
     border-radius: 15px;
-    margin-right: 150px;
+    margin-right: 100px;
 
 }
 
@@ -59,7 +59,7 @@ body {
     flex-direction: column;
     margin-top: 10px;
     border-radius: 15px;
-    margin-right: 150px;
+    margin-right: 100px;
 }
 
 .servico {
@@ -113,9 +113,9 @@ body {
     color: #00ff22;
     font-size: 14px;
     display:flex;
-    margin-left: 90px;
     font-weight: bold;
     padding-top: 10px;
+    white-space: nowrap;
 }
 
 .telefone {
@@ -160,6 +160,7 @@ body {
     font-size: 15px;
     display:flex;
     font-weight: bold;
-    margin-left: 215px;
+    margin-left: 495px;
     white-space: nowrap;
+    margin-top: 90px;
 }
