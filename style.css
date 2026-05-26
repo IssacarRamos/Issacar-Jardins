@@ -1,0 +1,160 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    background-image: url("./ChatGPT\ Image\ 25\ de\ mai.\ de\ 2026\,\ 10_38_16.png");
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-position: 295px;
+    background-color: #000000;
+    margin-right: 40px;
+}
+
+.Titulo {
+    color: #ffffff;
+    font-size: 12px;
+    display:flex;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.subtitulo {
+    color: #02ff24;
+    font-size: 16px;
+    margin-top: 70px;
+    margin: 30px;
+    display:flex;
+    text-align: center;
+    
+}
+
+.caixa {
+    background-color: #ffffff;
+    width: 270px;
+    height: 290px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 215px;
+    border-radius: 15px;
+
+}
+
+.caixa1 {
+    background-color: #ffffff;
+    width: 240px;
+    height: 122px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 215px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.servico {
+    color: #000000;
+    font-size: 15px;
+    margin: 3px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 10px;
+}
+.identidade {
+    color: #02ff24;
+    font-size: 43px;
+    margin-top: 15px;
+    display:flex;
+    font-weight: bold;
+}
+
+.servico1 {
+    color: #000000;
+    font-size: 16px;
+    margin: 3px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 36px;
+    position: absolute;
+}
+
+.servico2 {
+    color: #000000;
+    font-size: 16px;
+    margin: 3px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 65px;
+    position: absolute;
+}
+
+.servico3 {
+    color: #000000;
+    font-size: 16px;
+    margin: 3px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 95px;
+    position: absolute;
+}
+
+.horario {
+    color: #00ff22;
+    font-size: 14px;
+    display:flex;
+    margin-right: 50px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.telefone {
+    color: #ffffff;
+    font-size: 20px;
+    display:flex;
+    font-weight: bold;
+    margin-left: 333px;
+    margin-top: 120px;
+    white-space: nowrap;
+}
+
+.hotmail {
+    color: #ffffff;
+    font-size: 15px;
+    display:flex;
+    font-weight: bold;
+    margin-left: 344px;
+    white-space: nowrap;
+}
+
+.endereco {
+    color: #ffffff;
+    font-size: 15px;
+    display:flex;
+    font-weight: bold;
+    margin-left:435px;
+    white-space: nowrap;
+}
+
+.endereco1 {
+    color: #ffffff;
+    font-size: 15px;
+    display:flex;
+    font-weight: bold;
+    margin-left: 215px;
+    white-space: nowrap;
+}
+
+.cnpj {
+    color: #ffffff;
+    font-size: 15px;
+    display:flex;
+    font-weight: bold;
+    margin-left: 380px;
+    white-space: nowrap;
+    margin-top: 87px;
+}
