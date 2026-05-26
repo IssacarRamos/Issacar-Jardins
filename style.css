@@ -7,22 +7,23 @@
 
 body { 
     background-image: url("./ChatGPT\ Image\ 25\ de\ mai.\ de\ 2026\,\ 10_38_16.png");
-    background-size: 300px 300px;
+    background-size: 200px 200px;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-position: 295px;
+    background-position: 260px;
     background-color: #000000;
     margin-right: 40px;
 }
 
 .Titulo {
     color: #ffffff;
-    font-size: 12px;
+    font-size: 15px;
     display:flex;
     margin-top: 10px;
     font-weight: bold;
+    text-align: center;
 }
 
 .subtitulo {
@@ -41,7 +42,7 @@ body {
     height: 290px;
     display: flex;
     flex-direction: column;
-    margin-right: 215px;
+    margin-right: 35px;
     border-radius: 15px;
 
 }
@@ -52,7 +53,7 @@ body {
     height: 122px;
     display: flex;
     flex-direction: column;
-    margin-right: 215px;
+    margin-right: 35px;
     margin-top: 10px;
     border-radius: 15px;
 }
@@ -71,6 +72,7 @@ body {
     margin-top: 15px;
     display:flex;
     font-weight: bold;
+    margin-left: auto;
 }
 
 .servico1 {
@@ -107,7 +109,7 @@ body {
     color: #00ff22;
     font-size: 14px;
     display:flex;
-    margin-right: 50px;
+    margin-left: 90px;
     font-weight: bold;
     padding-top: 10px;
 }
