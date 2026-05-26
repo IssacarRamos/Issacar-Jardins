@@ -7,12 +7,12 @@
 
 body { 
     background-image: url("./ChatGPT\ Image\ 25\ de\ mai.\ de\ 2026\,\ 10_38_16.png");
-    background-size: 200px 200px;
+    background-size: 300px 300px;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-position: 260px;
+    background-position: 360px;
     background-color: #000000;
     margin-right: 40px;
 }
