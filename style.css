@@ -7,7 +7,7 @@
 
 body { 
     background-image: url("./ChatGPT\ Image\ 25\ de\ mai.\ de\ 2026\,\ 10_38_16.png");
-    background-size: 300px 300px;
+    background-size: 350px 350px;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -34,7 +34,7 @@ body {
     margin-top: 70px;
     margin: 30px;
     display:flex;
-    margin-left: 200px;
+    margin-left: 250px;
     text-align: center;
     white-space: nowrap;
     
@@ -46,7 +46,7 @@ body {
     height: 290px;
     display: flex;
     flex-direction: column;
-    margin-left: 150px;
+    margin-left: 50px;
     border-radius: 15px;
 
 }
@@ -57,7 +57,7 @@ body {
     height: 122px;
     display: flex;
     flex-direction: column;
-    margin-left: 150px;
+    margin-left: 50px;
     margin-top: 10px;
     border-radius: 15px;
 }
@@ -160,7 +160,7 @@ body {
     font-size: 15px;
     display:flex;
     font-weight: bold;
-    margin-left: 380px;
+    margin-left: 645px;
     white-space: nowrap;
-    margin-top: 87px;
+    margin-top: 80px;
 }
