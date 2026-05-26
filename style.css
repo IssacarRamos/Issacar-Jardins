@@ -12,7 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-position: 260px;
+    background-position: 290px;
     background-color: #000000;
 }
 
@@ -114,6 +114,7 @@ body {
     display:flex;
     font-weight: bold;
     padding-top: 10px;
+    margin-left: 10px;
     white-space: nowrap;
 }
 
@@ -162,4 +163,17 @@ body {
     margin-left: 925px;
     white-space: nowrap;
     margin-top: 90px;
+}
+
+.caixafoto {
+
+    background-color: #003b0a73;
+    width: 720px;
+    height: 420px;
+    display: flex;
+    margin-top: 30px;
+    border-radius: 15px;
+    margin-left: 400px;
+    margin-bottom: 10px;
+
 }
