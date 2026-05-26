@@ -29,11 +29,12 @@ body {
 
 .subtitulo {
     color: #02ff24;
-    font-size: 16px;
+    font-size: 20px;
     margin-top: 70px;
     margin: 30px;
     display:flex;
     text-align: center;
+    margin-left: 200px;
     
 }
 
