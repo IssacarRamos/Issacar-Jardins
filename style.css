@@ -34,7 +34,7 @@ body {
     margin-top: 70px;
     margin: 30px;
     display:flex;
-    margin-left: 350px;
+    margin-left: 450px;
     text-align: center;
     white-space: nowrap;
     
@@ -47,6 +47,7 @@ body {
     display: flex;
     flex-direction: column;
     border-radius: 15px;
+    margin-right: 150px;
 
 }
 
@@ -58,6 +59,7 @@ body {
     flex-direction: column;
     margin-top: 10px;
     border-radius: 15px;
+    margin-right: 150px;
 }
 
 .servico {
