@@ -14,7 +14,6 @@ body {
     align-items: center;
     background-position: 260px;
     background-color: #000000;
-    margin-right: 40px;
 }
 
 .Titulo {
@@ -34,7 +33,7 @@ body {
     margin-top: 70px;
     margin: 30px;
     display:flex;
-    margin-left: 400px;
+    margin-left: 370px;
     text-align: center;
     white-space: nowrap;
     
@@ -47,19 +46,19 @@ body {
     display: flex;
     flex-direction: column;
     border-radius: 15px;
-    margin-right: 100px;
+    margin-right: 80px;
 
 }
 
 .caixa1 {
     background-color: #ffffff;
-    width: 240px;
+    width: 270px;
     height: 122px;
     display: flex;
     flex-direction: column;
     margin-top: 10px;
     border-radius: 15px;
-    margin-right: 100px;
+    margin-right: 80px;
 }
 
 .servico {
@@ -123,7 +122,7 @@ body {
     font-size: 20px;
     display:flex;
     font-weight: bold;
-    margin-left: 333px;
+    margin-left: 550px;
     margin-top: 120px;
     white-space: nowrap;
 }
@@ -133,7 +132,7 @@ body {
     font-size: 15px;
     display:flex;
     font-weight: bold;
-    margin-left: 344px;
+    margin-left: 560px;
     white-space: nowrap;
 }
 
@@ -142,7 +141,7 @@ body {
     font-size: 15px;
     display:flex;
     font-weight: bold;
-    margin-left:435px;
+    margin-left:650px;
     white-space: nowrap;
 }
 
@@ -151,7 +150,7 @@ body {
     font-size: 15px;
     display:flex;
     font-weight: bold;
-    margin-left: 215px;
+    margin-left: 435px;
     white-space: nowrap;
 }
 
@@ -160,7 +159,7 @@ body {
     font-size: 15px;
     display:flex;
     font-weight: bold;
-    margin-left: 495px;
+    margin-left: 925px;
     white-space: nowrap;
     margin-top: 90px;
 }
