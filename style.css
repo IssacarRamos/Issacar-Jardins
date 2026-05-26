@@ -19,11 +19,12 @@ body {
 
 .Titulo {
     color: #ffffff;
-    font-size: 15px;
+    font-size: 25px;
     display:flex;
     margin-top: 10px;
     font-weight: bold;
     text-align: center;
+    margin-left: 200px;
 }
 
 .subtitulo {
